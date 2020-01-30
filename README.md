@@ -3,7 +3,7 @@
 Returns each line from the file
 if any given pattern matches a sub-slice of the line.
 
-## usage examples
+## usage
 ```
 grep15min FILE [PATTERN...]
 
